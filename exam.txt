@@ -1,0 +1,4 @@
+Math 4
+History 4
+Geograph 5
+Physics 6

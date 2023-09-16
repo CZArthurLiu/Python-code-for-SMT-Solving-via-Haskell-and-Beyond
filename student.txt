@@ -1,0 +1,10 @@
+stu1 Math History Geograph
+stu2 Math Physics
+stu3 History Geograph
+stu4 Physics
+stu5 History Geograph
+stu6 Physics Geograph
+stu7 Math History Geograph
+stu8 Math Physics
+stu9 Physics
+stu10 Physics Geograph
